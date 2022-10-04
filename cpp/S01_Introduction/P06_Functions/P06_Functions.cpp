@@ -5,8 +5,6 @@
 int maxNum(int[]);
 
 int main() {
-
-	int num1, num2, num3, num4;
 	int array[SIZE];
 
 	for (size_t i = 0; i < SIZE; i++) {
