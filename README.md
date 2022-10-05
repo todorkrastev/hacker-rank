@@ -19,12 +19,34 @@
             <article class="header__title">
                 <h1 class="header__about" align="center">
                     <a href="https://www.hackerrank.com/" class="header__link"
-                        target="_blank">@HackerRank</a> - the place where I face new challenges
+                        target="_blank">@HackerRank</a> - the place where I brush up on my programming skills
                 </h1>
             </article>
         </section>
     </header>
     <main>
+	<section class="techs">
+	    <article class="techs__java">
+		<ul class="techs__list">
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java"
+                            class="techs__link" target="_blank">
+                            Java
+                        </a>
+                    </li>
+		</ul>
+	    </article>
+ 	    <article class="techs__cpp">
+		<ul class="techs__list">
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/cpp"
+                            class="techs__link" target="_blank">
+                            C++
+                        </a>
+                    </li>
+		</ul>
+	    </article>
+	</section>
     </main>
 </body>
 
