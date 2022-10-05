@@ -26,22 +26,37 @@
     </header>
     <main>
 	<section class="techs">
+	    <h2 class="techs__title">
+                Technologies
+            </h2>
 	    <article class="techs__java">
+	        <h3 class="techs__title">
+                Java
+                </h3>
 		<ul class="techs__list">
 		    <li class="techs__item">
-                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java"
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java/S01_Introduction"
                             class="techs__link" target="_blank">
-                            Java
+                            Introduction
+                        </a>
+                    </li>
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java/S02_Strings"
+                            class="techs__link" target="_blank">
+                            Strings
                         </a>
                     </li>
 		</ul>
 	    </article>
  	    <article class="techs__cpp">
+	    	<h3 class="techs__title">
+                C++
+                </h3>
 		<ul class="techs__list">
 		    <li class="techs__item">
-                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/cpp"
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/cpp/S01_Introduction"
                             class="techs__link" target="_blank">
-                            C++
+                            Introduction
                         </a>
                     </li>
 		</ul>
