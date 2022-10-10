@@ -59,6 +59,12 @@
                             Introduction
                         </a>
                     </li>
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/cpp/S02_Strings"
+                            class="techs__link" target="_blank">
+                            Strings
+                        </a>
+                    </li>
 		</ul>
 	    </article>
 	</section>
