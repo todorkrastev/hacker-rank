@@ -46,6 +46,18 @@
                             Strings
                         </a>
                     </li>
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java/S03_BigNumber"
+                            class="techs__link" target="_blank">
+                            Big Number
+                        </a>
+                    </li>
+		    <li class="techs__item">
+                        <a href="https://github.com/todorkrastev/hacker-rank/tree/main/java/S04_DataStructures"
+                            class="techs__link" target="_blank">
+                            Data Strucutures
+                        </a>
+                    </li>
 		</ul>
 	    </article>
  	    <article class="techs__cpp">
